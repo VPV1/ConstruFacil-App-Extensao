@@ -115,20 +115,9 @@ ConstruFacil/
 
 ---
 
-## 🏫 Informações Acadêmicas
-
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Disciplina:** Atividade de Extensão
-- **Instituição:** [Nome da Instituição]
-- **Semestre:** 2025.1
-- **Local de realização:** Manaus, AM
-
----
-
+ 
 ## 📄 Licença
 
 Projeto desenvolvido para fins acadêmicos — Atividade de Extensão Universitária.
 
 ---
-
-*Depósito ConstruBem Ltda. • Manaus, AM*
